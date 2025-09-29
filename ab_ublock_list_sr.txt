@@ -1,0 +1,7 @@
+! Title: ab list SR
+! Version: 1.0.0.5
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_sr.txt
+
+||da.namu.la^$domain=arca.live
+||arca.live/api/*pagead?$xmlhttprequest
+newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad

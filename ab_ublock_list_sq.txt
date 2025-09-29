@@ -1,0 +1,23 @@
+! Title: ab ublock list SQ
+! Version: 1.0.0.1
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_sq.txt
+
+! 2022-03-25 https://arca.live
+! ||*.namu.la/*
+*$image
+*.bmp
+*.dib
+*.jpg
+*.jpeg
+*.jpe
+*.jfif
+*.gif
+*.tif
+*.tiff
+*.png
+*.apng
+*.heic
+*.mp4
+*.swf
+*.webp
+*.webm

@@ -1,0 +1,16 @@
+! Title: ab ublock list SP
+! Version: 1.0.0.2
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_sp.txt
+
+! https://arca.live (Arcalive manager)
+arca.live###form\.until
+arca.live##.batch-check
+arca.live##.batch-comment-delete-btn.btn-sm.btn-danger.btn
+arca.live##.btn-block-user.btn-danger.btn
+arca.live##.row.admin-menu
+arca.live##.float-right.show-comment-checkbox.text-primary.btn-sm.btn
+arca.live##.batch-check-all
+
+! https://arca.live (Arcalive manager) - unused
+! arca.live##.ml-2.float-right.btn-sm.btn-danger.btn
+! arca.live##.dropdown-toggle.ion-android-menu

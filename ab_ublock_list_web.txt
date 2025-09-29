@@ -1,0 +1,6 @@
+! Title: ab ublock list web
+! Version: 1.0.0.3
+! Source: https://raw.githubusercontent.com/a1jzbx8gowpqsk/miscellaneous/refs/heads/main/ab_ublock_list_web.txt
+
+! 2023-09-13 https://arca.live
+arca.live##.sticky-container > .sidebar-item
